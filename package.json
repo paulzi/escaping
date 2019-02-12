@@ -1,8 +1,8 @@
 {
   "name": "escaping",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Escape, unescape and split strings by char",
-  "main": "src/main.js",
+  "main": "src/index.js",
   "authors": [
     {
       "name": "PaulZi",
